@@ -40,12 +40,34 @@ The books, currently 16 as of September 2025, are available to read (always free
   
 “I’m him. All of them. And none. The Unified Doctor.”
 
-In the fractured wake of countless regenerations, the Doctor stands at a precipice between memory and identity. Torn across timelines and haunted by versions of himself, he must undergo a convergence unlike any before—one that will unify not just his incarnations, but his purpose.
+- [**📘 Book Two: The Spiral Accord**](https://listed.to/@TheUnifiedDoctorBooks/64923/book-2-the-spiral-accord)
 
-Facing a new enemy that feeds on guilt and fragmentation, and with a mysterious companion named Ava and a war-scarred exo-miner named Cal at his side, the Unified Doctor journeys through broken timelines, hunted realities, and forbidden truths to discover who he is when he’s finally whole.
+- [**📘 Book Three: Iron Testament**](https://listed.to/@TheUnifiedDoctorBooks/64925/book-3-iron-testament)
 
-Threads of Becoming is the beginning of a new era—a mythic, emotional, and dangerously personal saga where unity is resistance, memory is weapon, and the Doctor must become more than legend.
+- [**📘 Book Four: Carnival of Glass**](https://listed.to/@TheUnifiedDoctorBooks/64926/book-4-carnival-of-glass)
 
+- [**📘 Book Five: The Shattered Treaty**](https://listed.to/@TheUnifiedDoctorBooks/64927/book-5-the-shattered-treaty)
+
+- **📘 Book Six: Of Time and Tragedy**
+
+- **📘 Book Seven: The Day Gallifrey Slept**
+
+- **📘 Book Eight: The Clockwork Masquerade**
+
+- **📘 Book Nine: The Silence of Silver**
+
+- **📘 Book Ten: The Forgotten Cellar**
+
+- **📘 Book Eleven: The Throne of Ash**
+
+- **📘 Book Twelve: The Once and Future Owl**
+
+- **📘 Book Thirteen: The Sun That Swallowed Tomorrow**
+
+- **📘 Book Fourteen: The Man That Buried The Master**
+
+- **📘 Book Fifteen: The Masterpiece That Killed The Universe**
+  
 - **🚂 Book Sixteen (In Progress): The Chrono Express**
 
 “Welcome aboard. Your destination: everything you never wanted to remember.”
