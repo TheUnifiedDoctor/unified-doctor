@@ -24,15 +24,31 @@ A saga of identity, memory, rebellion, and healing — told across worlds.
 
 > “These are not chapters. These are fractures in the timeline.”
 
-- **Book 1 – The Broken Compass**  
-  The Unified Doctor arrives on a world out of time, chased by echoes of himself.  
-  His TARDIS lost. His memory fractured. His mission unclear. But time is unraveling, and he is the only one who remembers the way it was meant to go.
+- **📘 Book One: Threads of Becoming**
+  
+“I’m him. All of them. And none. The Unified Doctor.”
 
-- **Book 2 – The Soundless War**  
-  [Coming soon]
+In the fractured wake of countless regenerations, the Doctor stands at a precipice between memory and identity. Torn across timelines and haunted by versions of himself, he must undergo a convergence unlike any before—one that will unify not just his incarnations, but his purpose.
 
-- **Book 3+**  
-  [Coming soon — explore the outlines, timelines, and synopses in the Lore Library]
+Facing a new enemy that feeds on guilt and fragmentation, and with a mysterious companion named Ava and a war-scarred exo-miner named Cal at his side, the Unified Doctor journeys through broken timelines, hunted realities, and forbidden truths to discover who he is when he’s finally whole.
+
+Threads of Becoming is the beginning of a new era—a mythic, emotional, and dangerously personal saga where unity is resistance, memory is weapon, and the Doctor must become more than legend.
+
+- **🚂 Book Sixteen (In Progress): The Chrono Express**
+
+“Welcome aboard. Your destination: everything you never wanted to remember.”
+
+Time has been weaponized.
+
+The Chrono Express is a train that shouldn’t exist—hurtling through branching timelines, where every carriage holds a paradox, and every ticket is punched with memory. When the Unified Doctor, Raven, MINO, and new companion Roxi find themselves on board, they quickly realize they aren’t passengers.
+
+They’re part of the story.
+
+Each compartment tells a version of the past—or a version of someone. Some are beautiful. Some are violent. Some are lies. And at the centre of it all: a signature the Doctor knows too well.
+
+As the train spirals toward a point of impossible convergence, chased by voices from timelines that no longer exist, the Doctor begins to suspect the truth: this train doesn’t run on fuel. It runs on guilt.
+
+And there’s only one way off.
 
 > 📚 _New chapters are published regularly. Check back often or subscribe to updates._
 
