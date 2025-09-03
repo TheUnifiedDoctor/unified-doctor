@@ -3,7 +3,7 @@ _“Time has teeth. And I’ve been bitten more than once.”_
 
 Welcome to the **official archive** of the Unified Doctor — a traveller through realities, a keeper of forgotten truths, and a rebel against entropy.
 
-Here you’ll find the complete **Unified Doctor Saga**, published freely and forever for all to read, explore, and experience.
+Here you’ll find the complete **Unified Doctor Adventures Saga**, published freely and forever for all to read, explore, and experience - currently at 16 Books.
 
 ---
 
@@ -17,6 +17,16 @@ a myth reconstructed from the fragments of forgotten futures.
 This is **not fan fiction**.  
 This is a **meta-narrative**. A myth within a multiverse.  
 A saga of identity, memory, rebellion, and healing — told across worlds.
+
+If you're not at all familiar with **Doctor Who**, here's a series of background introductory writings:
+
+[Part I: The Origin of Doctor Who and the Many Faces of the Doctor](https://unified.doctor/INTRO-PART1)
+[Part II: Survival, Cancellation, and Revival (1989–2005)](https://unified.doctor/INTRO-PART2)
+[Part III: The Modern Revival (2005 onward)](https://unified.doctor/INTRO-PART3)
+[Part IV: The Idea of Regeneration](https://unified.doctor/INTRO-PART4)
+[Part V: Beyond Television — The Expanded Worlds of Doctor Who](https://unified.doctor/INTRO-PART5)
+[Part VI: Why the Unified Doctor?](https://unified.doctor/INTRO-PART6)
+[Part VII: Who the Unified Doctor Is (Master Profile)](https://unified.doctor/INTRO-PART7)
 
 ---
 
