@@ -1,7 +1,5 @@
 # Part I: The Origin of Doctor Who and the Many Faces of the Doctor
 
-*(≈1,500 words target; first instalment of the 10,000-word expanded introduction)*
-
 ---
 
 ## A New Kind of Hero (1963)
