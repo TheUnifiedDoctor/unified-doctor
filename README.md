@@ -22,9 +22,11 @@ A saga of identity, memory, rebellion, and healing — told across worlds.
 
 ## 📖 Read the Books
 
+The books, currently 16 as of September 2025, are available to read (always free) [here](https://listed.to/@TheUnifiedDoctorBooks)
+
 > “These are not chapters. These are fractures in the timeline.”
 
-- **📘 Book One: Threads of Becoming**
+- [**📘 Book One: Threads of Becoming**](https://listed.to/@TheUnifiedDoctorBooks/64922/book-1-threads-of-becoming)
   
 “I’m him. All of them. And none. The Unified Doctor.”
 
@@ -59,7 +61,7 @@ And there’s only one way off.
 Each book is accompanied by a cinematic, original **soundtrack album**, composed by the creator.  
 These tracks are designed to be listened to as you read — **headphones recommended**.
 
-> [🎵 Listen to Volume 1: *The Doctor, The Watcher, The Wanderer*](https://open.spotify.com/artist/1lwqzng0kjtRqcX7xyQiKH?si=Sbsr9SlGSJ-57Xart9Powg)
+> [🎵 Volume 1: *The Doctor, The Watcher, The Wanderer*](https://open.spotify.com/artist/1lwqzng0kjtRqcX7xyQiKH?si=Sbsr9SlGSJ-57Xart9Powg)
 
 > [🎵 Volume 2: *Music to Save the Universe By*](https://open.spotify.com/album/6EWMBX4y4HJpq6rhFJyT56?si=HNwAhSidR-2HH71zHvc_rw)
 
@@ -79,7 +81,7 @@ These tracks are designed to be listened to as you read — **headphones recomme
 
 ## ✉️ Contact & Community
 
-- 💬 [Read the public journal](https://listed.to/@TheUnifiedDoctor)  
+- 💬 [Read The Unified Doctor's public journal](https://listed.to/@TheUnifiedDoctorsJournal)  
 - 🧠 [Support development of future volumes](#donate)  
 - 🛰️ Contact the creator at: `contact@unified.doctor`
 
