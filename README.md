@@ -20,13 +20,13 @@ A saga of identity, memory, rebellion, and healing — told across worlds.
 
 If you're not at all familiar with **Doctor Who**, here's a series of background introductory writings:
 
-[Part I: The Origin of Doctor Who and the Many Faces of the Doctor](https://unified.doctor/INTRO-PART1)
-[Part II: Survival, Cancellation, and Revival (1989–2005)](https://unified.doctor/INTRO-PART2)
-[Part III: The Modern Revival (2005 onward)](https://unified.doctor/INTRO-PART3)
-[Part IV: The Idea of Regeneration](https://unified.doctor/INTRO-PART4)
-[Part V: Beyond Television — The Expanded Worlds of Doctor Who](https://unified.doctor/INTRO-PART5)
-[Part VI: Why the Unified Doctor?](https://unified.doctor/INTRO-PART6)
-[Part VII: Who the Unified Doctor Is (Master Profile)](https://unified.doctor/INTRO-PART7)
+- [Part I: The Origin of Doctor Who and the Many Faces of the Doctor](https://unified.doctor/INTRO-PART1)
+- [Part II: Survival, Cancellation, and Revival (1989–2005)](https://unified.doctor/INTRO-PART2)
+- [Part III: The Modern Revival (2005 onward)](https://unified.doctor/INTRO-PART3)
+- [Part IV: The Idea of Regeneration](https://unified.doctor/INTRO-PART4)
+- [Part V: Beyond Television — The Expanded Worlds of Doctor Who](https://unified.doctor/INTRO-PART5)
+- [Part VI: Why the Unified Doctor?](https://unified.doctor/INTRO-PART6)
+- [Part VII: Who the Unified Doctor Is (Master Profile)](https://unified.doctor/INTRO-PART7)
 
 ---
 
@@ -91,11 +91,15 @@ And there’s only one way off.
 ## 🎧 Listen to the Soundtrack
 
 Each book is accompanied by a cinematic, original **soundtrack album**, composed by the creator.  
-These tracks are designed to be listened to as you read — **headphones recommended**.
+These tracks are designed to be listened to to get a feel for the epic, cinematic feel of the books — **headphones recommended**.
+
+All soundtracks are available on all streaming platforms.
 
 > [🎵 Volume 1: *The Doctor, The Watcher, The Wanderer*](https://open.spotify.com/artist/1lwqzng0kjtRqcX7xyQiKH?si=Sbsr9SlGSJ-57Xart9Powg)
 
 > [🎵 Volume 2: *Music to Save the Universe By*](https://open.spotify.com/album/6EWMBX4y4HJpq6rhFJyT56?si=HNwAhSidR-2HH71zHvc_rw)
+
+> [🎵 Volume 3: *Everywhere, Everywhen*]
 
 ---
 
