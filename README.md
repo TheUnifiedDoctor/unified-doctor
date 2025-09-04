@@ -48,7 +48,7 @@ The books, currently 16 as of September 2025, are available to read (always free
 
 - [**📘 Book Five: The Shattered Treaty**](https://listed.to/@TheUnifiedDoctorBooks/64927/book-5-the-shattered-treaty)
 
-- **📘 Book Six: Of Time and Tragedy**
+- [**📘 Book Six: Of Time and Tragedy**](https://listed.to/@TheUnifiedDoctorBooks/64938/book-6-of-time-and-tragedy)
 
 - **📘 Book Seven: The Day Gallifrey Slept**
 
