@@ -99,7 +99,7 @@ All soundtracks are available on all streaming platforms.
 
 > [🎵 Volume 2: *Music to Save the Universe By*](https://open.spotify.com/album/6EWMBX4y4HJpq6rhFJyT56?si=HNwAhSidR-2HH71zHvc_rw)
 
-> [🎵 Volume 3: *Everywhere, Everywhen*]
+> [🎵 Volume 3: *Everywhere, Everywhen*](https://open.spotify.com/album/0NhrCsfO5lfFnV6lW7hqzA?si=qwkhvBy8RIa4_5B4LoD-Ug)
 
 ---
 
@@ -121,7 +121,7 @@ All soundtracks are available on all streaming platforms.
 - 🧠 Support development of future volumes:
   - [Ko-Fi: ](https://ko-fi.com/theunifieddoctor)
   - [Stripe: ](https://donate.stripe.com/fZu9AS8n38MheTa4yx63K00)
-- 🛰️ Contact the creator at: `me@unified.doctor`
+- 🛰️ Contact the creator at: `me@unified.doctor` or Instagram (@theunifieddoctor)
 
 ---
 
