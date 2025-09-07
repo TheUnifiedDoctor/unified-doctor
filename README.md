@@ -70,7 +70,7 @@ The books, currently 16 as of September 2025, are available to read (always free
   
 - **🚂 Book Sixteen (In Progress): The Chrono Express**
   
-- **🔮 Future Books: Circle of Ravens
+- **🔮 Future Books: Circle of Ravens**
 
 “Welcome aboard. Your destination: everything you never wanted to remember.”
 
