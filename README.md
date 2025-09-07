@@ -69,6 +69,8 @@ The books, currently 16 as of September 2025, are available to read (always free
 - **📘 Book Fifteen: The Masterpiece That Killed The Universe**
   
 - **🚂 Book Sixteen (In Progress): The Chrono Express**
+  
+- **🔮 Future Books: Circle of Ravens
 
 “Welcome aboard. Your destination: everything you never wanted to remember.”
 
@@ -121,7 +123,7 @@ All soundtracks are available on all streaming platforms.
 - 🧠 Support development of future volumes:
   - [Ko-Fi: ](https://ko-fi.com/theunifieddoctor)
   - [Stripe: ](https://donate.stripe.com/fZu9AS8n38MheTa4yx63K00)
-- 🛰️ Contact the creator at: `me@unified.doctor` or [WhatsApp](https://wa.me/message/HAOUTIE2J4YOD1)
+- 🛰️ Contact the creator at: `me@unified.doctor`
 
 ---
 
@@ -129,4 +131,4 @@ All soundtracks are available on all streaming platforms.
 
 ---
 
-🕳️ `unified.doctor` | ⌛ `#TheUnifiedDoctorLives`
+🕳️ `unified.doctor` | ⌛ `#TheUnifiedDoctor`
