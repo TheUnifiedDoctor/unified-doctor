@@ -105,6 +105,14 @@ All soundtracks are available on all streaming platforms.
 
 ---
 
+## 🔉 Audiobooks
+
+The books are currently being developed into audiobooks & audioplays; if you're a voice actor interested in getting involved we'd love to have you - no experience (just enthusiam) required.
+
+Benefits such as having actedit listes on IMDb and a modest payment (required to be a "professional" are just a few of the things you'll get in return. Email us at `audiobooks@unified.doctor` for more information.
+
+---
+
 ## 🧭 Explore the Lore Library
 
 - ✴️ Character profiles  
