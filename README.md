@@ -109,7 +109,7 @@ All soundtracks are available on all streaming platforms.
 
 The books are currently being developed into audiobooks & audioplays; if you're a voice actor interested in getting involved we'd love to have you - no experience (just enthusiam) required.
 
-Benefits such as having an acting credit listed on IMDb, adding a widely distributed story to your portfolio and a modest payment of $1 (required to be a "professional") are just a few of the things you'll get in return. Email us at `audiobooks@unified.doctor` for more information. As this is a non-profit labour-of-love unfortunately we can't engage professionals with the subsequent professional fees that are involved.
+Benefits such as having an acting credit listed on IMDb, adding a widely distributed story to your portfolio and a modest payment of $1 (required to be a "professional") are just a few of the things you'll get in return. Read this [Information](https://unified.doctor/TALENT) or Email us at `audiobooks@unified.doctor` for more information. As this is a non-profit labour-of-love unfortunately we can't engage professionals with the subsequent professional fees that are involved.
 
 ---
 
