@@ -1,4 +1,4 @@
-# The Unified Doctor  
+
 _“Time has teeth. And I’ve been bitten more than once.”_
 
 Welcome to the **official archive** of the Unified Doctor — a traveller through realities, a keeper of forgotten truths, and a rebel against entropy.
