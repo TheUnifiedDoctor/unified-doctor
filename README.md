@@ -141,7 +141,7 @@ Benefits such as having an acting credit listed on IMDb, adding a widely distrib
 
 ---
 
-> _“No copyright infringement is intended. The Unified Doctor is an independent literary project inspired by, but not affiliated with, Doctor Who. All rights to derivative works are fully acknowledged. This project is published under Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) license.”_
+> _“No copyright infringement is intended. The Unified Doctor is an independent literary project inspired by, but not affiliated with, the Official Doctor Who by BBC. All rights to derivative works are fully acknowledged. This project is published under Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) license.”_
 
 ---
 
