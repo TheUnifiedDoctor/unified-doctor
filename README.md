@@ -99,6 +99,8 @@ All soundtracks are available on all streaming platforms.
 
 > [🎵 Volume 1: *The Doctor, The Watcher, The Wanderer*](https://open.spotify.com/artist/1lwqzng0kjtRqcX7xyQiKH?si=Sbsr9SlGSJ-57Xart9Powg)
 
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/65razDPrIAdsdXNCjQwljp?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 > [🎵 Volume 2: *Music to Save the Universe By*](https://open.spotify.com/album/6EWMBX4y4HJpq6rhFJyT56?si=HNwAhSidR-2HH71zHvc_rw)
 
 > [🎵 Volume 3: *Everywhere, Everywhen*](https://open.spotify.com/album/0NhrCsfO5lfFnV6lW7hqzA?si=qwkhvBy8RIa4_5B4LoD-Ug)
