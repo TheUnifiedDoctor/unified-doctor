@@ -131,7 +131,7 @@ Benefits such as having an acting credit listed on IMDb, adding a widely distrib
 - 🧠 Support development of future volumes:
   - [Ko-Fi](https://ko-fi.com/theunifieddoctor)
   - [Stripe](https://donate.stripe.com/fZu9AS8n38MheTa4yx63K00)
-- 🛰️ Contact the creator at: `me@unified.doctor` or `+64 27 4 UNIDOC`
+- 🛰️ Contact the creator (U/D PRODUCTIONS LIMITED) at: `me@unified.doctor` or `+64 27 4 UNIDOC`
 
 ---
 
