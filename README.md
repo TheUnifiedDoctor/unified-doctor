@@ -93,6 +93,8 @@ And there’s only one way off.
 
 ---
 
+<img src="UDRAVEN.PNG" alt="The Unified Doctor Adventures" width="400"/>
+
 ## 🎧 Listen to the Soundtrack
 
 Each book is accompanied by a cinematic, original **soundtrack album**, composed by the creator.  
