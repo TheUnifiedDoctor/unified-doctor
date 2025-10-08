@@ -8,6 +8,8 @@ Here you’ll find the complete **Unified Doctor Adventures Saga**, published fr
 
 ---
 
+<img src="UD.PNG" alt="The Unified Doctor Adventures" width="400"/>
+
 ## 🌀 What Is the Unified Doctor?
 
 The Unified Doctor is **not a name, but a vow**.  
