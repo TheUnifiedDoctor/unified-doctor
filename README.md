@@ -1,4 +1,4 @@
-<img src="sigil.PNG" alt="The Unified Doctor's Sigil" width="400"/>
+<img src="TimeslessTrio.PNG" alt="The Unified Doctor Adventures - Timeless Trio" width="400"/>
 
 _“Time has teeth. And I’ve been bitten more than once.”_
 
