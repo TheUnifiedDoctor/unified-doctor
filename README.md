@@ -158,13 +158,3 @@ Benefits such as having an acting credit listed on IMDb, adding a widely distrib
 ---
 
 🕳️ `unified.doctor` | ⌛ `#TheUnifiedDoctor`
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-KPN92S2HLR"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-KPN92S2HLR');
-</script>
