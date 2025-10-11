@@ -1,3 +1,5 @@
+<div style="background-color:black; color:white; padding:25px;">
+
 <p align="center">
 <img src="TimeslessTrio.PNG" alt="The Unified Doctor Adventures - Timeless Trio" width="400"/>
 </p>
@@ -164,3 +166,4 @@ Benefits such as having an acting credit listed on IMDb, adding a widely distrib
 ---
 
 🕳️ `unified.doctor` | ⌛ `#TheUnifiedDoctor`
+</div>
