@@ -1,0 +1,264 @@
+# Create a styled HTML version of the provided README content for GitHub Pages
+html = r"""<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>The Unified Doctor Adventures — Official Archive</title>
+  <meta name="description" content="The official archive of The Unified Doctor Adventures — books, soundtracks, lore, and community." />
+  <meta property="og:title" content="The Unified Doctor Adventures — Official Archive" />
+  <meta property="og:description" content="Read the saga, listen to the soundtracks, and explore the lore of the Unified Doctor." />
+  <meta property="og:type" content="website" />
+  <meta name="theme-color" content="#0b0b10" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
+  <style>
+    :root{
+      --bg:#0b0b10;
+      --bg-elev:#11121a;
+      --text:#e6e8ef;
+      --muted:#a7acbc;
+      --accent:#78d0f7;
+      --accent-2:#a78bfa;
+      --card:#0f1117;
+      --border:#1b1e2b;
+      --link:#8dd2ff;
+      --shadow: 0 10px 30px rgba(0,0,0,.35);
+      --radius:18px;
+      --radius-sm:12px;
+      --maxw:1000px;
+    }
+    *{box-sizing:border-box}
+    html,body{margin:0;padding:0;background:var(--bg);color:var(--text);font-family:Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial, "Noto Sans", "Liberation Sans", sans-serif;line-height:1.6}
+    a{color:var(--link);text-decoration:none}
+    a:hover{text-decoration:underline}
+    img{max-width:100%;height:auto}
+    .wrap{max-width:var(--maxw);margin:0 auto;padding:24px}
+    header{position:sticky;top:0;background:linear-gradient(180deg, rgba(11,11,16,.95), rgba(11,11,16,.75) 70%, rgba(11,11,16,0));backdrop-filter: blur(6px);z-index:20;border-bottom:1px solid var(--border)}
+    nav{display:flex;align-items:center;gap:16px;justify-content:space-between;padding:10px 24px}
+    .brand{font-weight:800;letter-spacing:.3px}
+    .navlinks{display:flex;gap:14px;flex-wrap:wrap}
+    .chip{display:inline-block;padding:9px 14px;border:1px solid var(--border);border-radius:999px;color:var(--muted);transition:.15s;background:rgba(255,255,255,.02)}
+    .chip:hover{border-color:#26304a;color:#cdd3e3;text-decoration:none}
+    .hero{padding:36px 0 8px}
+    .center{text-align:center}
+    .quote{font-style:italic;color:#c9cbe0;opacity:.95;margin:10px auto 4px;max-width:800px}
+    .subtle{color:var(--muted)}
+    .btn{display:inline-block;padding:12px 18px;border-radius:10px;background:linear-gradient(135deg, #1a7fc9, #7b5cff);color:#fff;font-weight:600;box-shadow:var(--shadow)}
+    .btn:hover{text-decoration:none;filter:brightness(1.05)}
+    section{margin:32px 0;padding:20px;border:1px solid var(--border);border-radius:var(--radius);background:linear-gradient(180deg, var(--card), #0c0e15)}
+    h1,h2{line-height:1.25;margin:0 0 8px}
+    h1{font-size:clamp(28px, 3vw, 36px)}
+    h2{font-size:clamp(22px, 2.6vw, 28px)}
+    p{margin:8px 0 12px}
+    .grid{display:grid;gap:14px;grid-template-columns:repeat(1,1fr)}
+    @media(min-width:720px){.grid{grid-template-columns:repeat(2,1fr)}}
+    @media(min-width:980px){.grid{grid-template-columns:repeat(3,1fr)}}
+    .card{padding:16px;border:1px solid var(--border);border-radius:var(--radius-sm);background:linear-gradient(180deg, #0f121a, #0b0d14);box-shadow:var(--shadow)}
+    .card h3{margin:0 0 6px;font-size:18px}
+    .pill{font-size:12px;color:#cbd1e3;border:1px solid var(--border);border-radius:999px;padding:4px 8px;display:inline-block}
+    .centered-image{display:flex;align-items:center;justify-content:center;gap:8px;margin:8px 0 0}
+    blockquote{margin:12px auto;padding:12px 16px;border-left:3px solid var(--accent);background:#0f1320;border-radius:8px}
+    iframe{border:0;border-radius:12px;width:100%;height:352px;box-shadow:var(--shadow)}
+    footer{color:#a9aec3;margin:32px 0;padding:28px;border-top:1px solid var(--border);text-align:center}
+    .small{font-size:13px}
+    .list{padding-left:18px}
+    .list li{margin:4px 0}
+    .two-col{display:grid;gap:18px;grid-template-columns:1fr}
+    @media(min-width:900px){.two-col{grid-template-columns:1.15fr .85fr}}
+    .kicker{font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:#9bb0ff;font-size:12px}
+    .spacer{height:10px}
+  </style>
+</head>
+<body>
+  <header>
+    <nav class="wrap">
+      <div class="brand">🕳️ The Unified Doctor Adventures</div>
+      <div class="navlinks">
+        <a class="chip" href="#about">About</a>
+        <a class="chip" href="#books">Books</a>
+        <a class="chip" href="#soundtrack">Soundtrack</a>
+        <a class="chip" href="#audiobooks">Audiobooks</a>
+        <a class="chip" href="#lore">Lore Library</a>
+        <a class="chip" href="#contact">Contact</a>
+      </div>
+    </nav>
+  </header>
+
+  <main class="wrap">
+    <section class="hero center" id="top">
+      <div class="centered-image">
+        <img src="TimeslessTrio.PNG" alt="The Unified Doctor Adventures - Timeless Trio" width="200" />
+      </div>
+      <blockquote class="quote">“Time has teeth. And I’ve been bitten more than once.”</blockquote>
+      <p class="subtle">Welcome to the <strong>official archive</strong> of the Unified Doctor — a traveller through realities, a keeper of forgotten truths, and a rebel against entropy.</p>
+      <p>Here you’ll find the complete <strong>Unified Doctor Adventures Saga</strong>, published freely and forever for all to read, explore, and experience — currently at 16 Books.</p>
+      <p><a class="btn" href="#books">Start Reading</a></p>
+      <div class="centered-image">
+        <img src="UD.PNG" alt="The Unified Doctor Adventures" width="200" />
+      </div>
+    </section>
+
+    <section id="about">
+      <h2>🌀 What Is the Unified Doctor?</h2>
+      <p>The Unified Doctor is <strong>not a name, but a vow</strong>.<br/>A vow to unify what is broken — across time, space, mind, and soul.<br/>He is the culmination of many timelines, a synthesis of destinies, a myth reconstructed from the fragments of forgotten futures.</p>
+      <p>This is <strong>not fan fiction</strong>.<br/>This is a <strong>meta-narrative</strong>. A myth within a multiverse.<br/>A saga of identity, memory, rebellion, and healing — told across worlds.</p>
+      <p>If you're not at all familiar with <strong>Doctor Who</strong>, here's a series of background introductory writings:</p>
+      <ul class="list">
+        <li><a target="_blank" rel="noopener" href="https://unified.doctor/INTRO-PART1">Part I: The Origin of Doctor Who and the Many Faces of the Doctor</a></li>
+        <li><a target="_blank" rel="noopener" href="https://unified.doctor/INTRO-PART2">Part II: Survival, Cancellation, and Revival (1989–2005)</a></li>
+        <li><a target="_blank" rel="noopener" href="https://unified.doctor/INTRO-PART3">Part III: The Modern Revival (2005 onward)</a></li>
+        <li><a target="_blank" rel="noopener" href="https://unified.doctor/INTRO-PART4">Part IV: The Idea of Regeneration</a></li>
+        <li><a target="_blank" rel="noopener" href="https://unified.doctor/INTRO-PART5">Part V: Beyond Television — The Expanded Worlds of Doctor Who</a></li>
+        <li><a target="_blank" rel="noopener" href="https://unified.doctor/INTRO-PART6">Part VI: Why the Unified Doctor?</a></li>
+        <li><a target="_blank" rel="noopener" href="https://unified.doctor/INTRO-PART7">Part VII: Who the Unified Doctor Is (Master Profile)</a></li>
+      </ul>
+      <div class="centered-image">
+        <img src="UD2.PNG" alt="The Unified Doctor Adventures" width="200" />
+      </div>
+    </section>
+
+    <section id="books">
+      <h2>📖 Read the Books</h2>
+      <p>The books, currently 16 as of September 2025, are available to read (always free) <a target="_blank" rel="noopener" href="https://listed.to/@TheUnifiedDoctorBooks">here</a>.</p>
+      <blockquote>“These are not chapters. These are fractures in the timeline.”</blockquote>
+
+      <div class="grid">
+        <div class="card">
+          <h3>📘 Book One: Threads of Becoming</h3>
+          <p><a target="_blank" rel="noopener" href="https://listed.to/@TheUnifiedDoctorBooks/64922/book-1-threads-of-becoming">Read online</a></p>
+          <p class="subtle">“I’m him. All of them. And none. The Unified Doctor.”</p>
+        </div>
+
+        <div class="card">
+          <h3>📘 Book Two: The Spiral Accord</h3>
+          <p><a target="_blank" rel="noopener" href="https://listed.to/@TheUnifiedDoctorBooks/64923/book-2-the-spiral-accord">Read online</a></p>
+        </div>
+
+        <div class="card">
+          <h3>📘 Book Three: Iron Testament</h3>
+          <p><a target="_blank" rel="noopener" href="https://listed.to/@TheUnifiedDoctorBooks/64925/book-3-iron-testament">Read online</a></p>
+        </div>
+
+        <div class="card">
+          <h3>📘 Book Four: Carnival of Glass</h3>
+          <p><a target="_blank" rel="noopener" href="https://listed.to/@TheUnifiedDoctorBooks/64926/book-4-carnival-of-glass">Read online</a></p>
+        </div>
+
+        <div class="card">
+          <h3>📘 Book Five: The Shattered Treaty</h3>
+          <p><a target="_blank" rel="noopener" href="https://listed.to/@TheUnifiedDoctorBooks/64927/book-5-the-shattered-treaty">Read online</a></p>
+        </div>
+
+        <div class="card">
+          <h3>📘 Book Six: Of Time and Tragedy</h3>
+          <p><a target="_blank" rel="noopener" href="https://listed.to/@TheUnifiedDoctorBooks/64938/book-6-of-time-and-tragedy">Read online</a></p>
+        </div>
+
+        <div class="card"><h3>📘 Book Seven: The Day Gallifrey Slept</h3></div>
+        <div class="card"><h3>📘 Book Eight: The Clockwork Masquerade</h3></div>
+        <div class="card"><h3>📘 Book Nine: The Silence of Silver</h3></div>
+        <div class="card"><h3>📘 Book Ten: The Forgotten Cellar</h3></div>
+        <div class="card"><h3>📘 Book Eleven: The Throne of Ash</h3></div>
+        <div class="card"><h3>📘 Book Twelve: The Once and Future Owl</h3></div>
+        <div class="card"><h3>📘 Book Thirteen: The Sun That Swallowed Tomorrow</h3></div>
+        <div class="card"><h3>📘 Book Fourteen: The Man That Buried The Master</h3></div>
+        <div class="card"><h3>📘 Book Fifteen: The Masterpiece That Killed The Universe</h3></div>
+        <div class="card"><h3>🚂 Book Sixteen (In Progress): The Chrono Express</h3></div>
+        <div class="card"><h3>🔮 Future Books: Circle of Ravens</h3></div>
+      </div>
+
+      <p>“Welcome aboard. Your destination: everything you never wanted to remember.”</p>
+      <p><strong>Time has been weaponized.</strong></p>
+      <p>The Chrono Express is a train that shouldn’t exist—hurtling through branching timelines, where every carriage holds a paradox, and every ticket is punched with memory. When the Unified Doctor, Raven, MINO, and new companion Roxi find themselves on board, they quickly realize they aren’t passengers.</p>
+      <p>They’re part of the story.</p>
+      <p>Each compartment tells a version of the past—or a version of someone. Some are beautiful. Some are violent. Some are lies. And at the centre of it all: a signature the Doctor knows too well.</p>
+      <p>As the train spirals toward a point of impossible convergence, chased by voices from timelines that no longer exist, the Doctor begins to suspect the truth: this train doesn’t run on fuel. It runs on guilt.</p>
+      <p>And there’s only one way off.</p>
+      <blockquote>📚 <em>New chapters are published regularly. Check back often or subscribe to updates.</em></blockquote>
+
+      <div class="centered-image">
+        <img src="UDRAVEN.PNG" alt="The Unified Doctor Adventures" width="200" />
+      </div>
+    </section>
+
+    <section id="soundtrack" class="two-col">
+      <div>
+        <h2>🎧 Listen to the Soundtrack</h2>
+        <p>Each book is accompanied by a cinematic, original <strong>soundtrack album</strong>, composed by the creator.<br/>These tracks are designed to be listened to to get a feel for the epic, cinematic feel of the books — <strong>headphones recommended</strong>.</p>
+        <p>All soundtracks are available on all streaming platforms.</p>
+        <p><a target="_blank" rel="noopener" href="https://open.spotify.com/artist/1lwqzng0kjtRqcX7xyQiKH?si=Sbsr9SlGSJ-57Xart9Powg">🎵 Volume 1: <em>The Doctor, The Watcher, The Wanderer</em></a></p>
+      </div>
+      <div>
+        <iframe src="https://open.spotify.com/embed/album/65razDPrIAdsdXNCjQwljp?utm_source=generator" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+      </div>
+
+      <div style="grid-column:1/-1" class="spacer"></div>
+
+      <div>
+        <p><a target="_blank" rel="noopener" href="https://open.spotify.com/album/6EWMBX4y4HJpq6rhFJyT56?si=HNwAhSidR-2HH71zHvc_rw">🎵 Volume 2: <em>Music to Save the Universe By</em></a></p>
+      </div>
+      <div>
+        <iframe src="https://open.spotify.com/embed/album/6EWMBX4y4HJpq6rhFJyT56?utm_source=generator" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+      </div>
+
+      <div style="grid-column:1/-1" class="spacer"></div>
+
+      <div>
+        <p><a target="_blank" rel="noopener" href="https://open.spotify.com/album/0NhrCsfO5lfFnV6lW7hqzA?si=qwkhvBy8RIa4_5B4LoD-Ug">🎵 Volume 3: <em>Everywhere, Everywhen</em></a></p>
+      </div>
+      <div>
+        <iframe src="https://open.spotify.com/embed/album/0NhrCsfO5lfFnV6lW7hqzA?utm_source=generator" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+      </div>
+    </section>
+
+    <section id="audiobooks">
+      <div class="centered-image">
+        <img src="UDRAVEN2.PNG" alt="The Unified Doctor Adventures" width="200" />
+      </div>
+      <h2>🔉 Audiobooks</h2>
+      <p>The books are currently being developed into audiobooks &amp; audioplays; if you're a voice actor interested in getting involved we'd love to have you - no experience (just enthusiam) required.</p>
+      <p>Benefits such as having an acting credit listed on IMDb, adding a widely distributed story to your portfolio and a modest payment of $1 (required to be a "professional") are just a few of the things you'll get in return. Read this <a target="_blank" rel="noopener" href="https://unified.doctor/TALENT">Information</a> or Email us at <code>audiobooks@unified.doctor</code> for more information. As this is a non-profit labour-of-love unfortunately we can't engage professionals with the subsequent professional fees that are involved.</p>
+      <div class="centered-image">
+        <img src="RAVEN.PNG" alt="The Unified Doctor Adventures" width="200" />
+      </div>
+    </section>
+
+    <section id="lore">
+      <h2>🧭 Explore the Lore Library</h2>
+      <ul class="list">
+        <li>✴️ Character profiles</li>
+        <li>🗺️ Timeline maps</li>
+        <li>🧬 Technology and philosophies of the Unified Doctor</li>
+        <li>🕳️ Gallifreyan glyphs, sigils, and mythos</li>
+        <li>📜 Journal entries, case notes, and multiversal anomalies</li>
+      </ul>
+      <blockquote><em>“You can’t understand the Doctor until you understand what he’s lost. And what he’s still willing to become.”</em></blockquote>
+    </section>
+
+    <section id="contact">
+      <h2>✉️ Contact &amp; Community</h2>
+      <ul class="list">
+        <li>💬 <a target="_blank" rel="noopener" href="https://listed.to/@TheUnifiedDoctorsJournal">Read The Unified Doctor's public journal</a></li>
+        <li>🧠 Support development of future volumes:
+          <ul class="list">
+            <li><a target="_blank" rel="noopener" href="https://ko-fi.com/theunifieddoctor">Ko-Fi</a></li>
+            <li><a target="_blank" rel="noopener" href="https://donate.stripe.com/fZu9AS8n38MheTa4yx63K00">Stripe</a></li>
+          </ul>
+        </li>
+        <li>🛰️ Contact the creator (U/D PRODUCTIONS LIMITED) at: <code>me@unified.doctor</code> or <code>+64 27 4 UNIDOC</code></li>
+      </ul>
+    </section>
+
+    <footer>
+      <p class="small"><em>“No copyright infringement is intended. The Unified Doctor is an independent literary project inspired by, but not affiliated with, the Official Doctor Who by BBC. All rights to derivative works are fully acknowledged. This project is published under Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) license.”</em></p>
+      <p class="small">🕳️ <code>unified.doctor</code> | ⌛ <code>#TheUnifiedDoctor</code></p>
+    </footer>
+  </main>
+</body>
+</html>
+"""
+with open("/mnt/data/unified-doctor-readme.html","w", encoding="utf-8") as f:
+    f.write(html)
+"/mnt/data/unified-doctor-readme.html"
