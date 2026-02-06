@@ -59,7 +59,7 @@ The books, currently 16 as of September 2025, are available to read (always free
 
 - [**📘 Book Six: Of Time and Tragedy**](https://listed.to/@TheUnifiedDoctorBooks/64938/book-6-of-time-and-tragedy)
 
-- **📘 Book Seven: The Day Gallifrey Slept**
+- [**📘 Book Seven: The Day Gallifrey Slept**](https://listed.to/@TheUnifiedDoctorBooks/69983/book-7-the-day-gallifrey-slept)
 
 - **📘 Book Eight: The Clockwork Masquerade**
 
