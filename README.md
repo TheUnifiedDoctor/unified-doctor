@@ -63,7 +63,7 @@ The books, currently 16 as of September 2025, are available to read (always free
 
 - [**📘 Book Eight: The Clockwork Masquerade**](https://listed.to/@TheUnifiedDoctorBooks/69984/book-8-the-clockwork-masquerade)
 
-- [**📘 Book Nine: The Silence of Silver**](https://listed.to/@TheUnifiedDoctorBooks/69985/book-9-the-silence-of-silver
+- [**📘 Book Nine: The Silence of Silver**](https://listed.to/@TheUnifiedDoctorBooks/69985/book-9-the-silence-of-silver)
 
 - **📘 Book Ten: The Forgotten Cellar**
 
