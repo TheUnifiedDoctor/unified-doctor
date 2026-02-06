@@ -61,7 +61,7 @@ The books, currently 16 as of September 2025, are available to read (always free
 
 - [**📘 Book Seven: The Day Gallifrey Slept**](https://listed.to/@TheUnifiedDoctorBooks/69983/book-7-the-day-gallifrey-slept)
 
-- **📘 Book Eight: The Clockwork Masquerade**
+- [**📘 Book Eight: The Clockwork Masquerade**](https://listed.to/@TheUnifiedDoctorBooks/69984/book-8-the-clockwork-masquerade)
 
 - **📘 Book Nine: The Silence of Silver**
 
